@@ -1,2 +1,2 @@
 # clatest
-CLA Test
+CLA Test. Please update docs.
